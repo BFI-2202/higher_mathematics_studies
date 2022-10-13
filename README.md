@@ -8,6 +8,6 @@
 
 | № | Тема работы | Практическая работа |
 |---|-------------|---------------------|
-| 1 | Множества, алгебраическая форма комплексных чисел, пределы | [pdf](practical_works/year_01/semester_01/practical_1/task.pdf) |
-| 2 | Пределы многочленов, пределы элементарных функций | [pdf](practical_works/year_01/semester_01/practical_2/task.pdf) |
-| 3 | Непрерывность функций, точки разрыва функций | [pdf](practical_works/year_01/semester_01/practical_3/task.pdf) |
+| 1 | Множества, алгебраическая форма комплексных чисел, пределы | [pdf](practical_works/year_1/semester_1/practical_1/task.pdf) |
+| 2 | Пределы многочленов, пределы элементарных функций | [pdf](practical_works/year_1/semester_1/practical_2/task.pdf) |
+| 3 | Непрерывность функций, точки разрыва функций | [pdf](practical_works/year_1/semester_1/practical_3/task.pdf) |
