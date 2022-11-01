@@ -12,3 +12,4 @@
 | 2 | Пределы многочленов, пределы элементарных функций | [pdf](practical_works/year_1/semester_1/practical_2/task.pdf) |
 | 3 | Непрерывность функций, точки разрыва функций | [pdf](practical_works/year_1/semester_1/practical_3/task.pdf) |
 | 4 | Производная функции, уравнение касательной, уравнение нормали | [pdf](practical_works/year_1/semester_1/practical_4/task.pdf) |
+| 5 | Правило Лопиталя, исследование на экстремум | [pdf](practical_works/year_1/semester_1/practical_5/task.pdf) |
