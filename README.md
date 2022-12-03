@@ -13,3 +13,4 @@
 | 3 | Непрерывность функций, точки разрыва функций | [pdf](practical_works/year_1/semester_1/practical_3/task.pdf) |
 | 4 | Производная функции, уравнение касательной, уравнение нормали | [pdf](practical_works/year_1/semester_1/practical_4/task.pdf) |
 | 5 | Правило Лопиталя, исследование на экстремум | [pdf](practical_works/year_1/semester_1/practical_5/task.pdf) |
+| 6 | Исследование функции на экстремум, наибольшее и наименьшее значение функции на отрезке, исследование на выпуклость (вогнутость) и точки перегиба | [pdf](practical_works/year_1/semester_1/practical_6/task.pdf) |
